@@ -25,7 +25,7 @@ Install brew and then navigate to brew folder:
 	git branch -M main
 	git remote add origin https://github.com/alexko371/test_git_project.git
 	git push -u origin main 
-		Github classic token (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)
+		Github classic token (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)
 
 
 
@@ -33,7 +33,7 @@ Install brew and then navigate to brew folder:
 	git remote add origin https://github.com/alexko371/Python-Selenium-AofL.git
 1.2 In order to to push your file from local to remote repo
 	git push -u origin master
-		Github classic token (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)
+		Github classic token (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)
 
 2.1 In order to see all new updates made to remote master repo
  	git fetch
