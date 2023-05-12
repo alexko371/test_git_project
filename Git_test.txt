@@ -10,7 +10,7 @@ Install brew and then navigate to brew folder:
 	git init
 3. This command will show all tracked and untracked files:
 	git Status
-3. This command will start tracking your files: 
+3. This command will start tracking your new files. Use this command when creating new file in order to add it to your local git file: 
 	git add [file_name.txt] ( git add Git_test.txt )
 4. This command will make commits by creating copies without touching original file. (Save mode)
 	git commit -a -m "git first commit" 
@@ -24,7 +24,8 @@ Install brew and then navigate to brew folder:
 	git commit -m "first commit"
 	git branch -M main
 	git remote add origin https://github.com/alexko371/test_git_project.git
-	git push -u origin main
+	git push -u origin main 
+		Github classic token (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)
 
 
 
@@ -32,6 +33,7 @@ Install brew and then navigate to brew folder:
 	git remote add origin https://github.com/alexko371/Python-Selenium-AofL.git
 1.2 In order to to push your file from local to remote repo
 	git push -u origin master
+		Github classic token (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)
 
 
 	
