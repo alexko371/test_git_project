@@ -1,0 +1,16 @@
+Git Commands:
+
+Open Terminal: 
+	
+Install brew and then navigate to brew folder: 
+	cd /usr/local/bin
+
+1. git --version 
+2. Navigate to the local folder and make command "cd /Users/alexko/Documents/Git_test/": 
+	git init
+3. This command will show all tracked and untracked files:
+	git Status
+3. This command will start tracking your files: 
+	git add [file_name.txt] ( git add Git_test.txt )
+4. This command will make commits by creating copies without touching original file. (Save mode)
+	git commit -a -m "git first commit"
