@@ -35,5 +35,10 @@ Install brew and then navigate to brew folder:
 	git push -u origin master
 		Github classic token (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)
 
+2.1 In order to see all new updates made to remote master repo
+ 	git fetch
+2.2 In order to pull all files from remote master repo
+	git pull 
+
 
 	
